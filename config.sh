@@ -6,6 +6,7 @@ cp enabled/_50*.py /usr/share/openstack-dashboard/openstack-dashboard/enabled
 cp -avr monitoring/ /usr/share/openstack-dashboard/openstack-dashboard/dashboards/
 
 #Install lib
+apt-get install libjpeg-dev
 pip install pillow
 pip install svglib
 pip install reportlab
