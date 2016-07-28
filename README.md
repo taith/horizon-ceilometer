@@ -1,5 +1,7 @@
-# horizon-ceilometer
-Giao diện cho Ceilometer tích hợp với Horizon
+# This source code for horizon ceilometer on OpenStack Kilo
+**Ceilometer interface is intergrated into OpenStack Dashboard**
 
-##Hướng dẫn sử dụng
-#run cmd : sudo bash config.sh
+## How to install:
+This source code run in Linux Ubuntu
+In controller node
+**_run cmd : sudo bash config.sh_**
